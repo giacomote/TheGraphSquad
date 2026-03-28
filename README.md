@@ -14,6 +14,8 @@ All the exercises are done using [neo4j](https://neo4j.com/) and the
 
 ## 📂 Project structure
     TheGraphSquad/
-    ├── 01_ShakespeareTheater    # Exercise 1  
+    ├── 01_ShakespeareTheater    # Exercise 1
+    ├── 02_AlpineSkiing          # Exercise 2
+    ├── 03_FormulaOne            # Exercise 3
     ├── LICENSE                  # License file
     └── README.md                # This file
